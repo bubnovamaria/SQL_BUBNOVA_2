@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2021.06.11 07:58:27.399,=C:\Users\79827\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2021.06.11 07:58:27.458,=C:\Users\79827\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.06.11 07:59:10.529,C:\Users\79827\Desktop\SQL_BUBNOVA_2\Unit2.cpp=C:\Users\79827\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2021.06.11 07:59:10.529,C:\Users\79827\Desktop\SQL_BUBNOVA_2\Unit2.h=C:\Users\79827\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2021.06.11 07:59:10.529,C:\Users\79827\Desktop\SQL_BUBNOVA_2\Unit2.dfm=C:\Users\79827\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2021.06.11 07:59:12.103,C:\Users\79827\Desktop\SQL_BUBNOVA_2\Project2PCH1.h=C:\Users\79827\Documents\Embarcadero\Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>2021.06.11 07:59:13.071,C:\Users\79827\Desktop\SQL_BUBNOVA_2\Project2.cbproj=C:\Users\79827\Documents\Embarcadero\Studio\Projects\Project2.cbproj</Transaction>
+    <Transaction>2021.06.11 08:00:08.498,=C:\Users\79827\Downloads\VirtualTreeView\Changes.txt</Transaction>
+    <Transaction>2021.06.11 08:00:08.507,=C:\Users\79827\Downloads\VirtualTreeView\INSTALL.txt</Transaction>
+    <Transaction>2021.06.11 08:01:04.560,=C:\Users\79827\Desktop\SQL_BUBNOVA_2\sqlite3.dll</Transaction>
+    <Transaction>2021.06.11 08:01:04.604,=C:\Users\79827\Desktop\SQL_BUBNOVA_2\sqlite3.h</Transaction>
+    <Transaction>2021.06.11 08:01:04.629,=C:\Users\79827\Desktop\SQL_BUBNOVA_2\sqlite3ext.h</Transaction>
+    <Transaction>2021.06.11 08:01:05.075,=C:\Users\79827\Desktop\SQL_BUBNOVA_2\sqlite3.c</Transaction>
+    <Transaction>2021.06.11 08:01:05.085,=C:\Users\79827\Desktop\SQL_BUBNOVA_2\sqlite3.def</Transaction>
+  </Transactions>
+</BorlandProject>
